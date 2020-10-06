@@ -9,7 +9,7 @@ Sprint Task 3
 Menu available using console.(run it).
 Using console you can:
 1. Read files;
-2.Add files;
+2. Add files;
 3. Delete files;
 4. Sort files;
 5. Exit the program.
